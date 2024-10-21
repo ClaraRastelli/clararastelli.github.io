@@ -15,6 +15,6 @@ I am a doctoral candidate in *Cognitive Science* at the **University of Trento**
 Research Interests
 ======
 
-I am interested in exploring high-level cognitive processes such as semantic decision-making and creative problem-solving across the lifespan in both health and disease, using behavioral, neuroimaging, and computational modeling.
+I am interested in exploring high-level cognitive processes such as *semantic decision-making* and *creative problem-solving* across the lifespan in both health and disease, using behavioral, neuroimaging, and computational modeling.
 
 **Computational Cognitive Science • Creative Problem-Solving • Decision Science • Large Language Models • Reinforcement Learning • Learning and Memory • Predictive Brain**
