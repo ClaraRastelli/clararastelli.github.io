@@ -21,12 +21,8 @@ Current and past research projects include:
 ## Computational Models of CPS
 
 <figure>
-  <img src="/assets/images/KE.png" width="1000px" alt="">
-  <figcaption> *(A)* Computational modeling pipeline using word2vec to extract word embeddings from target and response words. A similarity matrix was generated with target words as rows and responses as columns, which was used with a softmax action selection rule to build and fit the semantic explorer model to children's data via a negative log-likelihood (NLL) loss function.
-    *(B)* Results include a scatterplot showing real versus fitted parameters
-    *(C)* Bar plots displaying loss values for three models (with error bars for SEM)
-    *(D)* Line plots representing the loss landscape across participants
-    *(E)* raincloud plots visualizing beta parameter differences between conditions.
+  <img src="/assets/images/Figure_5.png" width="1000px" alt="">
+  <figcaption> (A) Computational modeling pipeline using word2vec to extract word embeddings from target and response words. A similarity matrix was generated with target words as rows and responses as columns, which was used with a softmax action selection rule to build and fit the semantic explorer model to children's data via a negative log-likelihood (NLL) loss function. (B) Results include a scatterplot showing real versus fitted parameters. (C) Bar plots displaying loss values for three models (with error bars for SEM). (D) Line plots representing the loss landscape across participants. (E) raincloud plots visualizing beta parameter differences between conditions.
 </figcaption>
 </figure>
 
