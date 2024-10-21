@@ -45,7 +45,9 @@ Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. G
 [Loose and Heimbach](https://doi.org/10.1029/2020MS002386), JAMES (2021);
 [Fujii et al.](https://www.frontiersin.org/articles/10.3389/fmars.2019.00417/full), Front. Mar. Sci. (2019).
 
-## Boosting CPS skills
+## Boosting CPS
+
+This study provides a novel approach to how simulated sensory experiences can enhance decision-making strategies. By exploring these mechanisms, it deepens our understanding of CPS and highlights promising therapeutic interventions, especially for clinical populations that could benefit from improved cognitive functioning.
 
 <figure>
   <img src="/assets/images/Figure1.jpg" alt="">
@@ -55,7 +57,7 @@ Experimental Design and Stimuli.
 (b) Experimental design overview. Recurring arrows indicate the counterbalanced order of conditions across participants.
 (c) Schematic representation of the Alternative Uses Task (AUT).
 (d) Schematic representation of the Stroop task.
-(e) Radar plot displaying the results of the Altered States of Consciousness (ASC) questionnaire. Red and blue areas correspond to the OR and DD conditions, respectively. Statistical significance: *p < 0.05; **p < 0.01; ***p < 0.001.[from Rastelli, 2022](https://www.nature.com/articles/s41598-022-08047-w)
+(e) Radar plot displaying the results of the Altered States of Consciousness (ASC) questionnaire. Red and blue areas correspond to the OR and DD conditions, respectively. Statistical significance: *p < 0.05; **p < 0.01; ***p < 0.001. (Rastelli, 2022)
 </figcaption>
 </figure>
 
