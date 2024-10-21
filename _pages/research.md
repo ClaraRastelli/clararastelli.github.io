@@ -36,7 +36,7 @@ My research focuses on the energy cycle of the ocean mesoscale eddy field – it
 To diagnose the energy cycle, I am using high-resolution idealized models. 
 With a better understanding of the ocean eddy energy cycle, we can improve the representation of mesoscale processes in global ocean models.
 
-Publication: [Rastelli et al.]((https://academic.oup.com/pnasnexus/article/1/5/pgac273/6865385)), PNAS Nexus (2022);
+Publication: [Rastelli et al.](https://academic.oup.com/pnasnexus/article/1/5/pgac273/6865385), PNAS Nexus (2022);
 
 ## Exploring CPS Brain Dynamic 
 
