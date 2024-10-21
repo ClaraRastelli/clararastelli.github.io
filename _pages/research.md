@@ -10,20 +10,23 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-My research lies at the intersection of physical oceanography and computational science. Current and past research projects include:
-- Ocean mesoscale eddies
-- Machine learning for ocean modeling
-- Uncertainty quantification & observing system design
-- Oceanic teleconnections in the North Atlantic
-- Development of open source software tools
+My research lies at the intersection of *Cognitive Neuroscience, Computational Linguistics, and Artificial Intelligence*, focusing on understanding complex cognitive processes, such as **Creative Problem-Solving (CPS)**, using Deep Learning models, both from a theoretical perspective and applied to neuroimaging (fMRI, MEG/EEG) and behavioural data.
 
+Current and past research projects include:
 
-## Ocean Mesoscale Eddies
+- Computational Models underlying semantic memory navigation in CPS 
+- Exploring CPS Brain Dynamic 
+- Boosting CPS skills
+
+## Computational Models of CPS
 
 <figure>
   <img src="/assets/images/KE.png" width="1000px" alt="">
-  <figcaption>Left: The kinetic energy field in NeverWorld2: a high-resolution idealized model that I use for studying the ocean energy cycle.
-Right: A schematic of the ocean energy cycle.
+  <figcaption> *(A)* Computational modeling pipeline using word2vec to extract word embeddings from target and response words. A similarity matrix was generated with target words as rows and responses as columns, which was used with a softmax action selection rule to build and fit the semantic explorer model to children's data via a negative log-likelihood (NLL) loss function.
+    *(B)* Results include a scatterplot showing real versus fitted parameters
+    *(C)* Bar plots displaying loss values for three models (with error bars for SEM)
+    *(D)* Line plots representing the loss landscape across participants
+    *(E)* raincloud plots visualizing beta parameter differences between conditions.
 </figcaption>
 </figure>
 
@@ -33,11 +36,9 @@ My research focuses on the energy cycle of the ocean mesoscale eddy field – it
 To diagnose the energy cycle, I am using high-resolution idealized models. 
 With a better understanding of the ocean eddy energy cycle, we can improve the representation of mesoscale processes in global ocean models.
 
-Related publications: [Loose et al.](https://doi.org/10.1175/JPO-D-22-0083.1), JPO (2022);
-[Loose et al.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003518), JAMES (2023);
-[Marques, Loose et al.](https://gmd.copernicus.org/articles/15/6567/2022/), GMD (2022). 
+Publication: [Rastelli et al.]((https://academic.oup.com/pnasnexus/article/1/5/pgac273/6865385)), PNAS Nexus (2022);
 
-## Uncertainty Quantification & Observing System Design
+## Exploring CPS Brain Dynamic 
 
 <figure>
   <img src="/assets/images/QND.png" alt="">
@@ -56,7 +57,7 @@ Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. G
 [Loose and Heimbach](https://doi.org/10.1029/2020MS002386), JAMES (2021);
 [Fujii et al.](https://www.frontiersin.org/articles/10.3389/fmars.2019.00417/full), Front. Mar. Sci. (2019).
 
-## Oceanic Teleconnections in the North Atlantic
+## Boosting CPS skills
 
 <figure>
   <img src="/assets/images/sensitivity_teleconnections.png" alt="">
@@ -73,24 +74,3 @@ Related publications:
 [StoryMap](https://www.ecco-group.org/storymaps.htm?id=43);
  [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020);
 Loose, [PhD Dissertation](http://bora.uib.no/handle/1956/24456), 2019.
-
-## Development of Open Source Software Tools
-
-I am engaged with developing open-source software tools to enable our Earth Science community to perform data analysis in an efficient and reproducible way. Recently, my focus has been on the python packages [ROMS-Tools](https://github.com/CWorthy-ocean/roms-tools) and [GCM-Filters](https://gcm-filters.readthedocs.io/en/latest/). 
-`ROMS-Tools` is a python package for creating the input files that are necessary to run a ROMS simulation. This includes creating a grid, tidal, boundary, and atmospheric forcings, initial conditions, and more! 
-
-<figure>
-  <img src="/assets/images/filter_intro.png" alt="">
-  <figcaption> 
-Filtering surface relative vorticity from a global 0.1 degree MOM6 simulation with the open-source python package GCM-Filters.
-</figcaption>
-</figure>
-
-
-`GCM-Filters` is a python package that allows scientists to perform spatial filtering analysis in an easy, flexible, efficient, and reproducible way. `GCM-Filters` is designed to work with gridded data that is produced by General Circulation Models (GCMs) of ocean, weather, and climate. Users can employ `GCM-Filters` on either CPUs or GPUs, with NumPy or CuPy input data. Moreover, GCM-Filters leverages Dask and Xarray to support filtering of larger-than-memory datasets and computational flexibility. Community contributions are welcome!
-
-Check out [this presentation](https://noraloose.github.io/ams2022-talk) on GCM-Filters!
-
-Related publications: [Loose et al.](https://doi.org/10.21105/joss.03947), JOSS (2022); 
-[Grooms, Loose et al.](https://doi.org/10.1029/2021MS002552), JAMES (2021); [Yu et al.](https://arxiv.org/abs/2306.08754).
-
