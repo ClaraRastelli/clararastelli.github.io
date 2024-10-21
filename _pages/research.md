@@ -20,17 +20,16 @@ Current and past research projects include:
 
 ## Computational Models of CPS
 
-<figure>
-  <img src="/assets/images/Figure_5.png" width="1000px" alt="">
-  <figcaption> (A) Computational modeling pipeline using word2vec to extract word embeddings from target and response words. A similarity matrix was generated with target words as rows and responses as columns, which was used with a softmax action selection rule to build and fit the semantic explorer model to children's data via a negative log-likelihood (NLL) loss function. (B) Results include a scatterplot showing real versus fitted parameters. (C) Bar plots displaying loss values for three models (with error bars for SEM). (D) Line plots representing the loss landscape across participants. (E) raincloud plots visualizing beta parameter differences between conditions.
-</figcaption>
-</figure>
-
 Ocean mesoscale eddies are energetic motions that have horizontal scales of tens to hundreds of kilometers.
 Despite their relatively small scale, these eddies play an important role in transporting momentum, heat, salt, carbon, and nutrients throughout the world's oceans.
 My research focuses on the energy cycle of the ocean mesoscale eddy field – its generation, its interaction with the large-scale flow, and its dissipation. 
 To diagnose the energy cycle, I am using high-resolution idealized models. 
 With a better understanding of the ocean eddy energy cycle, we can improve the representation of mesoscale processes in global ocean models.
+<figure>
+  <img src="/assets/images/Figure_5.png" width="1000px" alt="">
+  <figcaption> (A) Computational modeling pipeline using word2vec to extract word embeddings from target and response words. A similarity matrix was generated with target words as rows and responses as columns, which was used with a softmax action selection rule to build and fit the semantic explorer model to children's data via a negative log-likelihood (NLL) loss function. (B) Results include a scatterplot showing real versus fitted parameters. (C) Bar plots displaying loss values for three models (with error bars for SEM). (D) Line plots representing the loss landscape across participants. (E) raincloud plots visualizing beta parameter differences between conditions.
+</figcaption>
+</figure>
 
 Publication: [Rastelli et al.](https://academic.oup.com/pnasnexus/article/1/5/pgac273/6865385), PNAS Nexus (2022);
 
