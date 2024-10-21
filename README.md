@@ -1,4 +1,4 @@
-# Nora Loose's website
+# Clara Rastelli's website
 
 ## Credits
 
