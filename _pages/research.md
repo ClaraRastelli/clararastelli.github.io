@@ -26,7 +26,7 @@ In this study, we provide compelling evidence that children balance novelty and 
 <figure>
   <img src="/assets/images/Figure_5.png" width="1000px" alt="">
   <figcaption> 
-    A: Computational modeling pipeline using word2vec to extract word embeddings from target and response words. A similarity matrix was generated with target words as rows and responses as columns, which was used with a softmax action selection rule to build and fit the semantic explorer model to children's data via a negative log-likelihood (NLL) loss function. (B) Results include a scatterplot showing real versus fitted parameters. (C) Bar plots displaying loss values for three models (with error bars for SEM). (D) Line plots representing the loss landscape across participants. (E) raincloud plots visualizing beta parameter differences between conditions. 
+    (A) Computational modeling pipeline using word2vec to extract word embeddings from target and response words. A similarity matrix was generated with target words as rows and responses as columns, which was used with a softmax action selection rule to build and fit the semantic explorer model to children's data via a negative log-likelihood (NLL) loss function. (B) Results include a scatterplot showing real versus fitted parameters. (C) Bar plots displaying loss values for three models (with error bars for SEM). (D) Line plots representing the loss landscape across participants. (E) raincloud plots visualizing beta parameter differences between conditions. 
   </figcaption>
 </figure>
 
@@ -48,17 +48,20 @@ Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. G
 ## Boosting CPS skills
 
 <figure>
-  <img src="/assets/images/sensitivity_teleconnections.png" alt="">
+  <img src="/assets/images/Rastelli_2022.png" alt="">
   <figcaption> 
-Left: Near-surface currents that are the mediator of oceanic teleconnections in the North Atlantic.
-Right: An adjoint-derived sensitivity map that highglights ''sensitive spots'' where wind anomalies can trigger heat transport anomalies across the Iceland-Scotland ridge (yellow line) months or years later.  
+Experimental Design and Stimuli.
+(a) Visual stimuli were presented in virtual reality (VR), consisting of panoramic 360° videos of natural scenes (indicated by red frames) and their DeepDream-modified versions (blue frames).
+(b) Experimental design overview. Recurring arrows indicate the counterbalanced order of conditions across participants.
+(c) Schematic representation of the Alternative Uses Task (AUT).
+(d) Schematic representation of the Stroop task.
+(e) Radar plot displaying the results of the Altered States of Consciousness (ASC) questionnaire. Red and blue areas correspond to the OR and DD conditions, respectively. Statistical significance: *p < 0.05; **p < 0.01; ***p < 0.001.[from Rastelli, 2022](https://www.nature.com/articles/s41598-022-08047-w)
 </figcaption>
 </figure>
 
-The seas around Greenland, Iceland, and Norway transport heat from the North Atlantic toward the Arctic.
-I am using adjoint-derived sensitivities in the [ECCO](https://ecco-group.org/) state estimate to identify drivers and locations that affect ocean heat transport in this region. Due to oceanic teleconnections, high-latitude heat transport is sensitive to local and remote(!) wind forcing.
+
 
 Related publications:
-[StoryMap](https://www.ecco-group.org/storymaps.htm?id=43);
- [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020);
-Loose, [PhD Dissertation](http://bora.uib.no/handle/1956/24456), 2019.
+[Greco, Rastelli et al.](https://doi.org/10.1029/2020JC016112), biorxiv (2024);
+[Rastelli et al.](https://www.nature.com/articles/s41598-022-08047-w) Sci Rep (2022);
+[Greco et al.](https://www.mdpi.com/1099-4300/23/7/839), Entropy (2019).
