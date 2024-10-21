@@ -48,7 +48,7 @@ Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. G
 ## Boosting CPS skills
 
 <figure>
-  <img src="/assets/images/Rastelli_2022.png" alt="">
+  <img src="/assets/images/Figure1.jpg" alt="">
   <figcaption> 
 Experimental Design and Stimuli.
 (a) Visual stimuli were presented in virtual reality (VR), consisting of panoramic 360° videos of natural scenes (indicated by red frames) and their DeepDream-modified versions (blue frames).
