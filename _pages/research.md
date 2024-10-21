@@ -14,21 +14,20 @@ My research lies at the intersection of *Cognitive Neuroscience, Computational L
 
 Current and past research projects include:
 
-- Computational Models underlying semantic memory navigation in CPS 
+- Computational Models of CPS 
 - Exploring CPS Brain Dynamic 
 - Boosting CPS skills
 
 ## Computational Models of CPS
+*How do humans efficiently solve the exploration/exploitation trade-off to generate creative word associations?* 
 
-Ocean mesoscale eddies are energetic motions that have horizontal scales of tens to hundreds of kilometers.
-Despite their relatively small scale, these eddies play an important role in transporting momentum, heat, salt, carbon, and nutrients throughout the world's oceans.
-My research focuses on the energy cycle of the ocean mesoscale eddy field – its generation, its interaction with the large-scale flow, and its dissipation. 
-To diagnose the energy cycle, I am using high-resolution idealized models. 
-With a better understanding of the ocean eddy energy cycle, we can improve the representation of mesoscale processes in global ocean models.
+In this study, we provide compelling evidence that children balance novelty and appropriateness to generate creative associations by optimally regulating the level of exploration in the semantic search. 
+
 <figure>
   <img src="/assets/images/Figure_5.png" width="1000px" alt="">
-  <figcaption> (A) Computational modeling pipeline using word2vec to extract word embeddings from target and response words. A similarity matrix was generated with target words as rows and responses as columns, which was used with a softmax action selection rule to build and fit the semantic explorer model to children's data via a negative log-likelihood (NLL) loss function. (B) Results include a scatterplot showing real versus fitted parameters. (C) Bar plots displaying loss values for three models (with error bars for SEM). (D) Line plots representing the loss landscape across participants. (E) raincloud plots visualizing beta parameter differences between conditions.
-</figcaption>
+  <figcaption> 
+    A: Computational modeling pipeline using word2vec to extract word embeddings from target and response words. A similarity matrix was generated with target words as rows and responses as columns, which was used with a softmax action selection rule to build and fit the semantic explorer model to children's data via a negative log-likelihood (NLL) loss function. (B) Results include a scatterplot showing real versus fitted parameters. (C) Bar plots displaying loss values for three models (with error bars for SEM). (D) Line plots representing the loss landscape across participants. (E) raincloud plots visualizing beta parameter differences between conditions. 
+  </figcaption>
 </figure>
 
 Publication: [Rastelli et al.](https://academic.oup.com/pnasnexus/article/1/5/pgac273/6865385), PNAS Nexus (2022);
@@ -38,15 +37,9 @@ Publication: [Rastelli et al.](https://academic.oup.com/pnasnexus/article/1/5/pg
 <figure>
   <img src="/assets/images/QND.png" alt="">
   <figcaption> 
-The Global Ocean Observing System (GOOS) consists of an eclectic mix of satellite and in-situ platforms. Designing optimal observing strategies that account for complementarity and redundancy of observational assets is an unsolved scientific and computational challenge.
+
 </figcaption>
 </figure>
-
-Ocean observing systems are expensive to build and maintain, and therefore have to be designed carefully. I am interested in questions such as:
-- What dynamical information is contained in already existing observation networks? 
-- What is the optimal instrument configuration, which is both cost-efficient and capable to monitor key processes and ocean variability?
-
-To tackle these questions, I perform quantitative observing system design, through a combination of Bayesian inverse methods and uncertainty quantification in a data assimilation framework. By means of these computational tools, quantitative observing system design suggests an optimal observing strategy and supports effective instrument placements in the future.
 
 Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020); 
 [Loose and Heimbach](https://doi.org/10.1029/2020MS002386), JAMES (2021);
