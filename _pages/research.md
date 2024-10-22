@@ -34,16 +34,20 @@ Publication: [Rastelli et al.](https://academic.oup.com/pnasnexus/article/1/5/pg
 
 ## Exploring CPS Brain Dynamic 
 
+In this recent work, we explore the neural foundations of semantic control in narrative creation, leveraging advanced fMRI techniques and state-of-the-art deep learning language models. These tools reveal unique patterns of brain activity that drive semantic exploration and fuel the creative process of story generation.
+
 <figure>
-  <img src="/assets/images/QND.png" alt="">
+  <img src="assets/images/fig4_chd.png" alt="">
   <figcaption> 
 
-</figcaption>
+</figcaption>The Connectome Harmonic Decomposition reveals spatial frequency patterns underlying the modulation of semantic control during story generation.
+a. Data analysis pipeline for implementing the Connectome Harmonic Decomposition.
+b. Brain plots showing examples of harmonics.
+c. Group-level searchlight classification identifies differences between conditions across the harmonic space by comparing classification accuracy to chance level, with statistical significance indicated by horizontal lines.
+d. Group-level searchlight regression analyzes how behavioral features relate to harmonics, measuring model performance by comparing R² scores to a baseline with permuted features, with statistical significance marked by horizontal lines.
 </figure>
 
-Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020); 
-[Loose and Heimbach](https://doi.org/10.1029/2020MS002386), JAMES (2021);
-[Fujii et al.](https://www.frontiersin.org/articles/10.3389/fmars.2019.00417/full), Front. Mar. Sci. (2019).
+Related publications: [Rastelli et al.](https://www.biorxiv.org/content/10.1101/2024.03.16.584998v1.full), biorxiv (2024); 
 
 ## Boosting CPS
 
