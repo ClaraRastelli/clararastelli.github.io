@@ -12,7 +12,9 @@ toc_sticky: true
 
 My research lies at the intersection of *Cognitive Neuroscience, Computational Science, and Psychology*, from low-level perceptual learning to complex decision-making, using Deep Learning models, both from a theoretical perspective and applied to neuroimaging (fMRI, MEG/EEG) and behavioural data.
 
-<br>
+<be>
+Currently, I am investigating semantic navigation strategies in human adults and their neural underpinnings using high-density EEG. Additionally, I am exploring the developmental trajectories of children's abilities to navigate semantic spaces, and how these abilities predict high-level cognitive processes like generalization, inference, exploration-exploitation strategies, and Pavlovian bias.
+<be>
 Current and past research projects include:
 - Computational Models of CPS 
 - Exploring CPS Brain Dynamics
@@ -20,7 +22,6 @@ Current and past research projects include:
 
 
 <br>
-Currently, I am investigating semantic navigation strategies in human adults and their neural underpinnings using high-density EEG. Additionally, I am exploring the developmental trajectories of children's abilities to navigate semantic spaces, and how these abilities predict high-level cognitive processes like generalization, inference, exploration-exploitation strategies, and Pavlovian bias.
 
 
 ## Computational Models of CPS
