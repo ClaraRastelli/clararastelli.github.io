@@ -37,7 +37,7 @@ Publication: [Rastelli et al.](https://academic.oup.com/pnasnexus/article/1/5/pg
 In this recent work, we explore the neural foundations of semantic control in narrative creation, leveraging advanced fMRI techniques and state-of-the-art deep learning language models. These tools reveal unique patterns of brain activity that drive semantic exploration and fuel the creative process of story generation.
 
 <figure>
-  <img src="assets/images/fig4_chd.png" alt="">
+  <img src="assets/images/fig4_chd.png" width="1000px" alt="">
   <figcaption> 
 
 </figcaption>The Connectome Harmonic Decomposition reveals spatial frequency patterns underlying the modulation of semantic control during story generation.
