@@ -109,8 +109,7 @@ author:
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   orcid            : "0000-0003-1955-3716"
-  googlescholar    : "https://scholar.google.com/citations?hl=it&view_op=list_works&gmla=ALUCkoWNt5TA0Gh4R2IYDGLObpM7neeVUsWDZVBGF6GCdToAGvzMXz2cTPGo4-lq64clT8lbiEB4xunHBz3byIwe&user=xUKnvEwAAAAJ"
-
+  googlescholar    : "https://scholar.google.com/citations?user=xUKnvEwAAAAJ&hl=en&gmla=ALUCkoVAeU8A6fOrBz4Qa6VoSXFWuau530cdL7gRUuWwnz42GKt3SMvpX3H5k_ToCjGzPEIo9Wr6w2Ys28geQOJgUBMxPuQ4aljX_BrZw5ag8A"
 # Reading Files
 include:
   - .htaccess
