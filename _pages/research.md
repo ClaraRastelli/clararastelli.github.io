@@ -10,16 +10,19 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-My research lies at the intersection of *Cognitive Neuroscience, Computational Linguistics, and Artificial Intelligence*, focusing on understanding complex cognitive processes, such as **Creative Problem-Solving (CPS)**, using Deep Learning models, both from a theoretical perspective and applied to neuroimaging (fMRI, MEG/EEG) and behavioural data.
+My research lies at the intersection of *Cognitive Neuroscience, Computational Science, and Psychology*, from low-level perceptual learning to complex decision-making, using Deep Learning models, both from a theoretical perspective and applied to neuroimaging (fMRI, MEG/EEG) and behavioural data.
 
+<br>
 Current and past research projects include:
-
 - Computational Models of CPS 
 - Exploring CPS Brain Dynamic 
 - Boosting CPS skills
+<br>
+Currently, I am investigating semantic navigation strategies in human adults and their neural underpinnings using high-density EEG. Additionally, I am exploring the developmental trajectories of children's abilities to navigate semantic spaces, and how these abilities predict high-level cognitive processes like generalization, inference, exploration-exploitation strategies, and Pavlovian bias.
+
 
 ## Computational Models of CPS
-*How do humans efficiently solve the exploration/exploitation trade-off to generate creative word associations?* 
+*How do humans efficiently solve the exploration/exploitation trade-off in CPS?* 
 
 In this study, we provide compelling evidence that children balance novelty and appropriateness to generate creative associations by optimally regulating the level of exploration in the semantic search. 
 
@@ -30,7 +33,7 @@ In this study, we provide compelling evidence that children balance novelty and 
   </figcaption>
 </figure>
 
-Publication: [Rastelli et al.](https://academic.oup.com/pnasnexus/article/1/5/pgac273/6865385), PNAS Nexus (2022);
+Publication: <br>[Rastelli et al.](https://academic.oup.com/pnasnexus/article/1/5/pgac273/6865385), PNAS Nexus (2022).
 
 ## Exploring CPS Brain Dynamic 
 
@@ -48,11 +51,12 @@ d. Group-level searchlight regression analyzes how behavioral features relate to
 </figcaption>
 </figure>
 
-Related publications: [Rastelli et al.](https://www.biorxiv.org/content/10.1101/2024.03.16.584998v1.full), biorxiv (2024); 
+Related publications: <br>
+[Rastelli et al.](https://www.biorxiv.org/content/10.1101/2024.03.16.584998v1.full), biorxiv (2024).
 
 ## Boosting CPS
 
-This study provides a novel approach to how simulated sensory experiences can enhance decision-making strategies. By exploring these mechanisms, it deepens our understanding of CPS and highlights promising therapeutic interventions, especially for clinical populations that could benefit from improved cognitive functioning.
+This study provides a novel approach to how simulated sensory experiences can enhance decision-making strategies. Exploring these mechanisms deepens our understanding of CPS and highlights promising therapeutic interventions, especially for clinical populations that could benefit from improved cognitive functioning.
 
 <figure>
   <img src="/assets/images/Figure1.jpg" alt="">
@@ -67,8 +71,10 @@ Experimental Design and Stimuli.
 </figure>
 
 
-
 Related publications:
+<br>
 [Greco, Rastelli et al.](https://doi.org/10.1029/2020JC016112), biorxiv (2024);
+<br>
 [Rastelli et al.](https://www.nature.com/articles/s41598-022-08047-w) Sci Rep (2022);
+<br>
 [Greco et al.](https://www.mdpi.com/1099-4300/23/7/839), Entropy (2019).
