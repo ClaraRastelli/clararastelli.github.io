@@ -17,6 +17,8 @@ Current and past research projects include:
 - Computational Models of CPS 
 - Exploring CPS Brain Dynamic 
 - Boosting CPS skills
+
+
 <br>
 Currently, I am investigating semantic navigation strategies in human adults and their neural underpinnings using high-density EEG. Additionally, I am exploring the developmental trajectories of children's abilities to navigate semantic spaces, and how these abilities predict high-level cognitive processes like generalization, inference, exploration-exploitation strategies, and Pavlovian bias.
 
@@ -35,9 +37,11 @@ In this study, we provide compelling evidence that children balance novelty and 
 
 Publication: <br>[Rastelli et al.](https://academic.oup.com/pnasnexus/article/1/5/pgac273/6865385), PNAS Nexus (2022).
 
-## Exploring CPS Brain Dynamic 
+## Exploring CPS Brain Dynamics
 
-In this recent work, we explore the neural foundations of semantic control in narrative creation, leveraging advanced fMRI techniques and state-of-the-art deep learning language models. These tools reveal unique patterns of brain activity that drive semantic exploration and fuel the creative process of story generation.
+*How the brain regulates semantic exploration and creativity in narrative generation?*
+
+This study investigates the neural mechanisms underlying semantic control during narrative creation, employing advanced fMRI techniques alongside cutting-edge deep learning language models. Our findings uncover distinct patterns of brain activity that govern semantic exploration and facilitate the creative process of story generation, offering new insights into the cognitive and neural dynamics that fuel creativity.
 
 <figure>
   <img src="/assets/images/fig4_chd.png" width="1000px" alt="">
