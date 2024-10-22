@@ -39,7 +39,7 @@ Publication: <br>[Rastelli et al.](https://academic.oup.com/pnasnexus/article/1/
 
 ## Exploring CPS Brain Dynamics
 
-*How the brain regulates semantic exploration and creativity in narrative generation?*
+*How the brain support semantic exploration and creativity in narrative generation?*
 
 This study investigates the neural mechanisms underlying semantic control during narrative creation, employing advanced fMRI techniques alongside cutting-edge deep learning language models. Our findings uncover distinct patterns of brain activity that govern semantic exploration and facilitate the creative process of story generation, offering new insights into the cognitive and neural dynamics that fuel creativity.
 
