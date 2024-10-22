@@ -9,11 +9,14 @@ author_profile: true
 
 ## Preprints
 
-| <a href="/assets/images/climsim.png"><img src="/assets/images/climsim.png" width="600px" alt=""> | Yu, S., ..., **Loose, N.**, ... and Pritchard, M.S. (2023). ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation. _submitted_. Preprint doi: [10.48550/arXiv.2306.08754](https://arxiv.org/abs/2306.08754).|
+| <a href="/assets/images/fig4_chd.png"><img src="/assets/images/fig4_chd.png" width="600px" alt=""> | **Rastelli, C.**, Greco, A., Finocchiaro, C., Penazzi, G., Braun, C., & De Pisapia, N. (2024). Neural dynamics of semantic control underlying generative storytelling. bioRxiv, 2024-03. _under review_. Preprint doi: [10.1101/2024.03.16.584998](https://www.biorxiv.org/content/10.1101/2024.03.16.584998v1.abstract).|
+
+| <a href="/assets/images/fig4_chd.png"><img src="/assets/images/fig4_chd.png" width="600px" alt=""> | Greco, A., **Rastelli, C.**, Ubaldi, A., & Riva, G. (2024). Immersive exposure to simulated visual hallucinations modulates high-level human cognition. bioRxiv, 2024-07. _submitted_. Preprint doi: [10.1101/2024.07.17.603874](https://www.biorxiv.org/content/10.1101/2024.07.17.603874v1.abstract)).|
 
 ## Journal Articles
 
-| <a href="/assets/images/GLGMwork_0.25deg.png"><img src="/assets/images/GLGMwork_0.25deg.png" width="600px" alt=""> | **Loose, N.**, Marques, G.M., Adcroft, A., Bachman, S., Griffies, S.M., Grooms, I., Hallberg, R.W. and Jansen, M. (2022). Comparing two parameterizations for the restratification effect of mesoscale eddies in an isopycnal ocean model. _Journal of Advances in Modeling Earth Systems_. doi: [10.1029/2022MS003518](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003518).|
+| <a href="/assets/images/biology-13-00576-g001"><img src="/assets/images/biology-13-00576-g001." width="600px" alt=""> |Greco, A., D’Alessandro, M., Gallitto, G., **Rastelli, C.**, Braun, C., Caria, A. (2024). Statistical Learning of Incidental Perceptual Regularities Induces Sensory Conditioned Cortical Responses. Biology, 13, 576. https://doi.org/10.3390/biology13080576 doi: [10.3390/biology13080576](https://www.mdpi.com/2079-7737/13/8/576).|
+
 | <a href="/assets/images/bleck_cycle.png"><img src="/assets/images/bleck_cycle_small.png" width="600px" alt=""> | **Loose, N.**, Bachman, S., Grooms, I. and Jansen, M. (2022). Diagnosing scale-dependent energy cycles in a high-resolution isopycnal ocean model. _Journal of Physical Oceanography_. doi: [10.1175/JPO-D-22-0083.1](https://doi.org/10.1175/JPO-D-22-0083.1), Open-access preprint: [10.1002/essoar.10511055.2](https://www.essoar.org/doi/10.1002/essoar.10511055.2).|
 | <a href="/assets/images/NW2.png"><img src="/assets/images/NW2.png" width="600px" alt=""> | Marques, G., **Loose, N.**, Yankovsky, E., Steinberg, J., Chang, C-Y., Bhamidipati, N., Adcroft, A., Fox-Kemper, B., Griffies, S., Hallberg, R., Jansen, M., Khatri, H. and Zanna, L. (2022). NeverWorld2: An idealized model hierarchy to investigate ocean mesoscale eddies across resolutions. _Geoscientic Model Development 15, no. 17: 6567-79_. doi: [10.5194/gmd-15-6567-2022](https://doi.org/10.5194/gmd-15-6567-2022).|
 | <a href="/assets/images/filtered_vorticity.png"><img src="/assets/images/filtered_vorticity_small.png" width="600px" alt=""> | **Loose, N.**, Abernathey, R., Grooms, I., Busecke, J., Guillaumin, A.P., Yankovsky, E., Marques, G., Steinberg, J.M., Ross, A.S., Khatri, H., Bachman, S.D., Zanna, L., Martin, P. (2022). GCM-Filters: A Python Package for Diffusion-based Spatial Filtering of Gridded Data, _Journal of Open Source Software_. doi: [10.21105/joss.03947](https://doi.org/10.21105/joss.03947).|
@@ -24,7 +27,7 @@ author_profile: true
 
 ## Thesis
 
-| <a href="/assets/images/SPNA.png"><img src="/assets/images/SPNA.png" width="600px" alt=""> | **Loose, N.** (2019). Adjoint Modeling and Observing System Design in the Subpolar North Atlantic, _Ph.D. Dissertation_, University of Bergen, Norway. [http://bora.uib.no/handle/1956/24456](http://bora.uib.no/handle/1956/24456).|
+Coming soon...
 
 
 
