@@ -15,7 +15,7 @@ My research lies at the intersection of *Cognitive Neuroscience, Computational S
 <br>
 Current and past research projects include:
 - Computational Models of CPS 
-- Exploring CPS Brain Dynamic 
+- Exploring CPS Brain Dynamics
 - Boosting CPS skills
 
 
