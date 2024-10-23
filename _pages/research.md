@@ -14,13 +14,13 @@ My research lies at the intersection of *Cognitive Neuroscience, Computational S
 
 Currently, I am investigating semantic navigation strategies in human adults and their neural underpinnings using high-density EEG. Additionally, I am exploring the developmental trajectories of children's abilities to navigate semantic spaces, and how these abilities predict high-level cognitive processes like generalization, inference, exploration-exploitation strategies, and Pavlovian bias.
 <br>
+
 Current and past research projects include:
 
 - Computational Models of CPS 
 - Exploring CPS Brain Dynamics
 - Boosting CPS skills
 
-<br>
 
 ## Computational Models of CPS
 *How do humans efficiently solve the exploration/exploitation trade-off in CPS?* 
