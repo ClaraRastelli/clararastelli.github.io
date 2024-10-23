@@ -13,7 +13,7 @@ author_profile: true
 I am a doctoral candidate in *Cognitive Science* at the **University of Trento** and in *Experimental Medicine* at the **University of Tübingen**, where I work at the [MEG Center](https://www.medizin.uni-tuebingen.de/de/medizinische-fakultaet/forschung/core-facilities/meg-zentrum).
 <br>     
           
-My research explores how semantic cognition influences the exploration of semantic spaces and supports creative problem-solving (CPS) across the lifespan, in both health and disease. I use neuroimaging (EEG, MEG, fMRI), computational cognitive modeling, and machine learning techniques, including Large Language Models (LLMs).
+My research explores how semantic cognition influences the exploration of semantic spaces and supports creative problem-solving (CPS) across the lifespan, in both health and disease. I use neuroimaging (EEG, MEG, fMRI), computational cognitive modeling, and machine learning approches, including Large Language Models (LLMs).
 
 Research Interests
 ======
