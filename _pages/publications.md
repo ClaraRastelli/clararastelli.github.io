@@ -15,7 +15,7 @@ author_profile: true
 
 ## Journal Articles
 
-| <a href="/assets/images/biology-13-00576-g001"><img src="/assets/images/biology-13-00576-g001." width="600px" alt=""> |Greco, A., D’Alessandro, M., Gallitto, G., **Rastelli, C.**, Braun, C., Caria, A. (2024). Statistical Learning of Incidental Perceptual Regularities Induces Sensory Conditioned Cortical Responses. _Biology_, 13, 576. https://doi.org/10.3390/biology13080576 doi: [10.3390/biology13080576](https://www.mdpi.com/2079-7737/13/8/576).|
+| <a href="/assets/images/Immagine 2024-10-23 114007.png"><img src="/assets/images/biology-13-00576-g001." width="600px" alt=""> |Greco, A., D’Alessandro, M., Gallitto, G., **Rastelli, C.**, Braun, C., Caria, A. (2024). Statistical Learning of Incidental Perceptual Regularities Induces Sensory Conditioned Cortical Responses. _Biology_, 13, 576. https://doi.org/10.3390/biology13080576 doi: [10.3390/biology13080576](https://www.mdpi.com/2079-7737/13/8/576).|
 
 | <a href="/assets/images/bleck_cycle.png"><img src="/assets/images/sensors-23-04199-g003.png" width="600px" alt=""> | Grecucci, A., Rastelli, C., Bacci, F., Melcher, D., & De Pisapia, N. (2023). A supervised machine learning approach to classify brain morphology of professional visual artists versus non-artists. _Sensors_, 23(9), 4199. doi: [10.3390/s23094199](https://www.mdpi.com/1424-8220/23/9/4199)|
 
@@ -23,7 +23,7 @@ author_profile: true
 
 | <a href="/assets/images/Figure_5.png"><img src="/assets/images/Figure1.jpg" width="600px" alt=""> | **Rastelli, C.**, Greco, A., Kenett, Y. N., Finocchiaro, C., & De Pisapia, N. (2022). Simulated visual hallucinations in virtual reality enhance cognitive flexibility. _Scientific reports_, 12(1), 4027. doi: [doi.org/10.1038/s41598-022-08047-w](https://www.nature.com/articles/s41598-022-08047-w).|
 
-| <a href="/assets/images/Figure_5.png"><img src="/assets/images/assets/images/4b34d528-288a-4a19-b96d-c88789dc7704.webp" width="600px" alt=""> | De Pisapia, N., & **Rastelli, C.** (2022). Creativity as an information-based process. _Rivista internazionale di Filosofia e Psicologia_, 2022(1), 1-18. doi: [10.4453/rifp.2022.0001](https://dx.doi.org/10.4453/rifp.2022.0001).|
+| <a href="/assets/images/assets/images/4b34d528-288a-4a19-b96d-c88789dc7704.webp"><img src="/assets/images/assets/images/4b34d528-288a-4a19-b96d-c88789dc7704.webp" width="600px" alt=""> | De Pisapia, N., & **Rastelli, C.** (2022). Creativity as an information-based process. _Rivista internazionale di Filosofia e Psicologia_, 2022(1), 1-18. doi: [10.4453/rifp.2022.0001](https://dx.doi.org/10.4453/rifp.2022.0001).|
 
 | <a href="/assets/images/Figure_5.png"><img src="/assets/images/entropy-23-00839-g001.png" width="600px" alt=""> | Greco, A., Gallitto, G., D’Alessandro, M., & **Rastelli, C.** (2021). Increased entropic brain dynamics during deepdream-induced altered perceptual phenomenology. Entropy, 23(7), 839. doi: [10.3390/e23070839](https://www.mdpi.com/1099-4300/23/7/839).|
 
