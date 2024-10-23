@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/assets/images/5c04474c-848e-4e63-befe-495865b4dbf4.webp" width="340px" alt="Clara's World" align="right" padding="20px" />
+<img src="/assets/images/assets/images/Immagine 2024-10-23 114417.png" width="340px" alt="Clara's World" align="right" padding="20px" />
 
 # About
 
