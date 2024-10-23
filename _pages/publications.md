@@ -23,7 +23,7 @@ author_profile: true
 
 | <a href="/assets/images/Figure_5.png"><img src="/assets/images/Figure1.jpg" width="600px" alt=""> | **Rastelli, C.**, Greco, A., Kenett, Y. N., Finocchiaro, C., & De Pisapia, N. (2022). Simulated visual hallucinations in virtual reality enhance cognitive flexibility. _Scientific reports_, 12(1), 4027. doi: [doi.org/10.1038/s41598-022-08047-w](https://www.nature.com/articles/s41598-022-08047-w).|
 
-| <a href="/assets/images/Figure_5.png"><img src="/assets/images/Figure1.jpg" width="600px" alt=""> | De Pisapia, N., & **Rastelli, C.** (2022). Creativity as an information-based process. _Rivista internazionale di Filosofia e Psicologia_, 2022(1), 1-18. doi: [10.4453/rifp.2022.0001](https://dx.doi.org/10.4453/rifp.2022.0001).|
+| <a href="/assets/images/Figure_5.png"><img src="/assets/images/assets/images/4b34d528-288a-4a19-b96d-c88789dc7704.webp" width="600px" alt=""> | De Pisapia, N., & **Rastelli, C.** (2022). Creativity as an information-based process. _Rivista internazionale di Filosofia e Psicologia_, 2022(1), 1-18. doi: [10.4453/rifp.2022.0001](https://dx.doi.org/10.4453/rifp.2022.0001).|
 
 | <a href="/assets/images/Figure_5.png"><img src="/assets/images/entropy-23-00839-g001.png" width="600px" alt=""> | Greco, A., Gallitto, G., D’Alessandro, M., & **Rastelli, C.** (2021). Increased entropic brain dynamics during deepdream-induced altered perceptual phenomenology. Entropy, 23(7), 839. doi: [10.3390/e23070839](https://www.mdpi.com/1099-4300/23/7/839).|
 
