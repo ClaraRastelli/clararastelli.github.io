@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Clara Rastelli"
-  avatar           : "/assets/images/Clara.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Clara.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Currently exploring the 🧠"
   location         : "Tübingen🌍"
   email            : "clara.rastelli@unitn.com"
