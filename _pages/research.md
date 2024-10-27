@@ -10,7 +10,7 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-My research lies at the intersection of *Cognitive Neuroscience, Computational Science, and Psychology*, from low-level perceptual learning to complex decision-making, using Deep Learning models, both from a theoretical perspective and applied to neuroimaging (fMRI, MEG/EEG) and behavioural data.
+My research lies at the intersection of *Psychology, Computational Cognitive Science, and Cognitive Neuroscience*, from low-level perceptual learning to complex decision-making, applying Deep Learning models to neuroimaging (fMRI, MEG/EEG) and behavioural data.
 
 Currently, I am investigating semantic navigation strategies in human adults and their neural underpinnings using high-density EEG. Additionally, I am exploring the developmental trajectories of children's abilities to navigate semantic spaces, and how these abilities predict high-level cognitive processes like generalization, inference, exploration-exploitation strategies, and Pavlovian bias.
 <br>
@@ -40,7 +40,7 @@ Publication: <br>[Rastelli et al.](https://academic.oup.com/pnasnexus/article/1/
 
 *How the brain support semantic exploration and creativity in narrative generation?*
 
-This study investigates the neural mechanisms underlying semantic control during narrative creation, employing advanced fMRI techniques alongside cutting-edge deep learning language models. Our findings uncover distinct patterns of brain activity that govern semantic exploration and facilitate the creative process of story generation, offering new insights into the cognitive and neural dynamics that fuel creativity.
+In this study we investigate the neural mechanisms underlying semantic control during narrative creation, employing advanced fMRI techniques alongside cutting-edge large language models. Our findings uncover distinct patterns of brain activity that govern semantic exploration and facilitate the creative process of story generation, offering new insights into the cognitive and neural dynamics that fuel creativity.
 
 <figure>
   <img src="/assets/images/fig4_chd.png" width="1000px" alt="">
@@ -59,7 +59,9 @@ Related publications: <br>
 
 ## Boosting CPS
 
-This study provides a novel approach to how simulated sensory experiences can enhance decision-making strategies. Exploring these mechanisms deepens our understanding of CPS and highlights promising therapeutic interventions, especially for clinical populations that could benefit from improved cognitive functioning.
+*How can we foster CPS in individuals?*
+
+The research explores whether simulated visual hallucinations in virtual reality can enhance cognitive flexibility (CF), an essential component for adapting to changing environments. Using VR videos altered by the DeepDream algorithm to simulate hallucinations, participants showed increased flexibility in their semantic networks and a reduction in automatic responses, suggesting that those experiences may facilitate the exploration of creative, less conventional strategies in problem-solving.
 
 <figure>
   <img src="/assets/images/Figure1.jpg" alt="">
@@ -76,8 +78,5 @@ Experimental Design and Stimuli.
 
 Related publications:
 <br>
-[Greco, Rastelli et al.](https://doi.org/10.1029/2020JC016112), biorxiv (2024);
-<br>
 [Rastelli et al.](https://www.nature.com/articles/s41598-022-08047-w) Sci Rep (2022);
-<br>
-[Greco et al.](https://www.mdpi.com/1099-4300/23/7/839), Entropy (2019).
+
