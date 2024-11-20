@@ -68,7 +68,7 @@ social:
   type                   : Person # Person or Organization (defaults to Person)
   # name                   : Clara Rastelli # If the user or organization name differs from the site's name
   links: 
-  - "https://bsky.app/profile/clararastelli.bsky.social" # An array of links to social media profiles
+    - "https://bsky.app/profile/clararastelli.bsky.social" # An array of links to social media profiles
 
 # Analytics
 analytics:
