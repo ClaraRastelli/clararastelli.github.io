@@ -1,0 +1,15 @@
+{% if site.social.links %}
+  <ul class="social-icons">
+    {% for link in site.social.links %}
+      {% if link contains "bsky.app" %}
+        <li>
+          <a href="{{ link }}" title="Bluesky">
+            <img src="{{ site.baseurl }}/assets/images/Bluesky_Logo.png" alt="Bluesky" style="width: 24px; height: 24px;">
+          </a>
+        </li>
+      {% else %}
+        <!-- Altri link social -->
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endif %}
