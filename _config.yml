@@ -65,11 +65,10 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : Person # Person or Organization (defaults to Person)
-  # name                   : Clara Rastelli # If the user or organization name differs from the site's name
-  links: 
-    - https://bsky.app/profile/clararastelli.bsky.social # An array of links to social media profiles
-
+  type: Person
+  links:
+    - https://bsky.app/profile/clararastelli.bsky.social
+    
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
