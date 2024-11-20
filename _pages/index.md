@@ -19,4 +19,4 @@ My research explores the brain’s ability to generate novel and useful ideas fo
 Research Interests
 ======
 
-**Computational Cognitive Science • Creative Problem-Solving • Decision Science • Large Language Models • Reinforcement Learning • Learning and Memory • Predictive Coding**
+**Computational Cognitive Science • Creativity Science • Decision Science • Large Language Models • Reinforcement Learning • Learning and Memory • Predictive Coding**
