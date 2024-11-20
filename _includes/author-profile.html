@@ -50,6 +50,14 @@
           </a>
         </li>
       {% endif %}
+      
+      {% if author.bluesky %}
+        <li>
+          <a href="{{ author.bluesky }}" itemprop="sameAs">
+            <img src="{{ site.baseurl }}/assets/images/Bluesky_Logo.png" alt="Bluesky" style="width: 24px; height: 24px;"> Bluesky
+          </a>
+        </li>
+      {% endif %}
 
       {% if author.keybase %}
         <li>
