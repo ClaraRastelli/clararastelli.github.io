@@ -9,13 +9,12 @@ author_profile: true
 
 ## Preprints
 
-| <a href="/assets/images/fig4_chd.png"><img src="/assets/images/fig4_chd.png" width="600px" alt=""> | **Rastelli, C.**, Greco, A., Finocchiaro, C., Penazzi, G., Braun, C., & De Pisapia, N. (2024). Neural dynamics of semantic control underlying generative storytelling. bioRxiv, 2024-03. _under review_. Preprint doi: [10.1101/2024.03.16.584998](https://www.biorxiv.org/content/10.1101/2024.03.16.584998v1.abstract).|
-
-| <a href="/assets/images/fig4_chd.png"><img src="/assets/images/vr.png" width="600px" alt=""> | Greco, A., **Rastelli, C.**, Ubaldi, A., & Riva, G. (2024). Immersive exposure to simulated visual hallucinations modulates high-level human cognition. bioRxiv, 2024-07. _submitted_. Preprint doi: [10.1101/2024.07.17.603874](https://www.biorxiv.org/content/10.1101/2024.07.17.603874v1.abstract)).|
-
 ## Journal Articles
+| <a href="/assets/images/fig4_chd.png"><img src="/assets/images/fig4_chd.png" width="600px" alt=""> | **Rastelli**, C., Greco, A., Finocchiaro, C., Penazzi, G., Braun, C., & De Pisapia, N. (2025). Neural dynamics of semantic control underlying generative storytelling. Communications Biology, 8(1), 513. doi: [10.1038/s42003-025-07913-3](https://www.nature.com/articles/s42003-025-07913-3).|
 
-| <a href="/assets/images/Immagine 2024-10-23 114007.png"><img src="/assets/images/Immagine 2024-10-23 114007.png" width="300px" alt=""> |Greco, A., D’Alessandro, M., Gallitto, G., **Rastelli, C.**, Braun, C., Caria, A. (2024). Statistical Learning of Incidental Perceptual Regularities Induces Sensory Conditioned Cortical Responses. _Biology_, 13, 576. https://doi.org/10.3390/biology13080576 doi: [10.3390/biology13080576](https://www.mdpi.com/2079-7737/13/8/576).|
+| <a href="/assets/images/fig4_chd.png"><img src="/assets/images/vr.png" width="600px" alt=""> | Greco, A., **Rastelli, C.**, Ubaldi, A., & Riva, G. (2025). Immersive exposure to simulated visual hallucinations modulates high-level human cognition. Consciousness and Cognition, 128, 103808. doi: [10.1016/j.concog.2025.103808](https://www.sciencedirect.com/science/article/pii/S1053810025000017).|
+
+| <a href="/assets/images/Immagine 2024-10-23 114007.png"><img src="/assets/images/Immagine 2024-10-23 114007.png" width="300px" alt=""> |Greco, A., D’Alessandro, M., Gallitto, G., **Rastelli, C.**, Braun, C., Caria, A. (2024). Statistical Learning of Incidental Perceptual Regularities Induces Sensory Conditioned Cortical Responses. _Biology_, 13, 576. doi: [10.3390/biology13080576](https://www.mdpi.com/2079-7737/13/8/576).|
 
 | <a href="/assets/images/sensors-23-04199-g003.png"><img src="/assets/images/sensors-23-04199-g003.png" width="300px" alt=""> | Grecucci, A., **Rastelli, C.**, Bacci, F., Melcher, D., & De Pisapia, N. (2023). A supervised machine learning approach to classify brain morphology of professional visual artists versus non-artists. _Sensors_, 23(9), 4199. doi: [10.3390/s23094199](https://www.mdpi.com/1424-8220/23/9/4199)|
 
